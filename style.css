@@ -1,0 +1,30 @@
+.btn_containers {
+
+    body: block;
+
+    display: flex;
+    justify-content: center;
+  }
+
+
+  .btn_items {
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 0 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.4s ease;
+  }
+
+  .results{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    margin: 0 25px;
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    transition: all 0.4s ease;
+  }
